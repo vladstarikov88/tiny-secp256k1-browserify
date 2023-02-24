@@ -1,6 +1,6 @@
 {
   "name": "tiny-secp256k1-browserify",
-  "version": "2.2.1",
+  "version": "2.2.1-1",
   "description": "Browserify version of tiny secp256k1 JS",
   "homepage": "https://github.com/vladstarikov88/tiny-secp256k1-browserify",
   "bugs": {
