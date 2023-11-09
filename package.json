@@ -22,7 +22,8 @@
       },
       "browser": "./lib/index.js",
       "default": "./lib/index.js"
-    }
+    },
+    "./lib": "./lib/index.js"
   },
   "browser": {
     "./lib/rand.js": "./lib/rand.browser.js",
